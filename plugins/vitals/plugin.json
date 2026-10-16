@@ -1,12 +1,12 @@
 {
   "id": "vitals",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Vitals",
   "description": "Live host health and session risk. See CPU, memory, swap, load and pressure, and see which Claude Code session puts the host at risk. The local Vitals daemon samples the host. Linux hosts show every metric. macOS and Windows hosts show each metric that the OS can measure and mark the rest as not available.",
   "entry": "index.html",
-  "artifact_url": "https://github.com/sigmashakeinc/ssg-plugin-vitals/releases/download/vitals-v0.1.1/vitals-v0.1.1.tar.gz",
-  "artifact_sha256": "f6f7b9ac7bac318a7a45bac93a318a1088b5a6aff652ab17d3c14825f7f4f9c7",
-  "artifact_signature": "fe3879fb07c55edc60270bccf41613590e7b8f4746d7efe02282315b3d394ddb922a38bb4736425ff86ab3d9e557a99ffba8030ee0be86ec5ee4e541a7c4b607",
+  "artifact_url": "https://github.com/sigmashakeinc/ssg-plugin-vitals/releases/download/vitals-v0.1.2/vitals-v0.1.2.tar.gz",
+  "artifact_sha256": "c4a4610bf23a34c935c04b654c0f12e4f0ee17835d98e738a0d9b796b0f70f88",
+  "artifact_signature": "887b34222e7d0154cb5daa29729aea8d582f33dadc9ec99f4a6160a7234da04f1fb4737ae0a4a0c573dfb5d64131d34831d41c688568c8ce5b50441e00ff8503",
   "signing_fingerprint": "302a300506032b657003210078fd845619e68fb2b27f30aed0a75381e948922e9af56273e53d79351a2d5818",
   "min_ssg_version": "1.1.10",
   "nav": [
